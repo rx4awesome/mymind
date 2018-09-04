@@ -1,0 +1,2 @@
+# mymind
+project details
