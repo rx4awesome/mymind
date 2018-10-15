@@ -1,0 +1,11 @@
+{
+  "name": "vine-ipsum-generator",
+  "version": "1.0.0",
+  "description": "A vine quote lorem ipsum generator",
+  "main": "app.js",
+  "scripts": {},
+  "author": "Robert Brazell",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
